@@ -1,0 +1,12 @@
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Xaml.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/DemoOfFormsiOS.exe
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/DemoOfForms.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll

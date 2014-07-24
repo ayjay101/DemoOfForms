@@ -1,0 +1,35 @@
+# Version: 7.2.5.5 (87026b6)
+# [first argument, ignore] # /Users/Development/Projects/DemoOfForms/iOS/bin/iPhone/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/Development/Projects/DemoOfForms/iOS/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/Development/Projects/DemoOfForms/iOS/bin/iPhone/Debug/DemoOfFormsiOS.app \
+	-r \
+	/Users/Development/Projects/DemoOfForms/DemoOfForms/bin/Debug/DemoOfForms.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/Development/Projects/DemoOfForms/iOS/../packages/Xamarin.Forms.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/Development/Projects/DemoOfForms/iOS/../packages/Xamarin.Forms.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/Development/Projects/DemoOfForms/iOS/../packages/Xamarin.Forms.1.2.1.6229/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/Development/Projects/DemoOfForms/iOS/bin/iPhone/Debug/DemoOfFormsiOS.exe \
